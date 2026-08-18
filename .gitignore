@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.local
+.tools
+# Word temporary files
+~$*
+
+# Internal working documents
+*.docx
+# Root design references
+/*.png
